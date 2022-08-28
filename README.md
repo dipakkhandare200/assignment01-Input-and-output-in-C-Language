@@ -1,1 +1,1 @@
-# assignment01 Input and output in C Language
+# assignment01 Operators in C Language
